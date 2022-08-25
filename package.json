@@ -2,7 +2,7 @@
   "name": "galeria_de_imagenes_con_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gaboxe.github.io/react-desafio_1-galeria_de_imagenes/",
+  "homepage": "https://gaboxe.github.io/galeria_de_imagenes_con_react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
