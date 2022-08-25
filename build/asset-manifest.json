@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/galeria_de_imagenes_con_react/static/css/main.49a96821.css",
+    "main.js": "/galeria_de_imagenes_con_react/static/js/main.c732e194.js",
+    "index.html": "/galeria_de_imagenes_con_react/index.html",
+    "main.49a96821.css.map": "/galeria_de_imagenes_con_react/static/css/main.49a96821.css.map",
+    "main.c732e194.js.map": "/galeria_de_imagenes_con_react/static/js/main.c732e194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a96821.css",
+    "static/js/main.c732e194.js"
+  ]
+}
