@@ -1,3 +1,6 @@
+Link de visualizacion:
+https://gentle-concha-8a4d30.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
